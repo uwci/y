@@ -2,6 +2,11 @@
 
 ---
 
+1|2
+---|--
+**[书签、工具与应用.pdf](http://leanote.com/api/file/getAttach?fileId=5c46276dab6441152a00154b)**|[备用地址](https://uwci.github.io/x/Documents/书签、工具与应用.pdf)
+http://blog.leanote.com/evica | [个人博客（临时）](http://blog.leanote.com/evica)
+
 [http://uwci.top](http://uwci.top)
 
 [http://evica.top](http://evica.top)
